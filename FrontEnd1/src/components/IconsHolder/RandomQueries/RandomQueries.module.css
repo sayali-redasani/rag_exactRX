@@ -1,0 +1,31 @@
+.promptCustom {
+    width: 30%;
+    margin-top: 20%;
+    border: 0.5px solid #ccc;
+    height: 30%;
+    background-color: #e8e8e82b;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    font-size: 12px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+  }
+  .promptCustom:hover {
+    background-color: #f3f3f3;
+    cursor: pointer; 
+  }
+  
+  .title {
+    font-weight: bold;
+    height: 10%;
+    /* padding-top: 10px; */
+  }
+  
+  .subtext {
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+  }
+  
